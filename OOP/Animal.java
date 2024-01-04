@@ -9,6 +9,14 @@ public class Animal {
         this.name = name;
         this.sound = sound;
     }
+    public Animal(String name){
+        this.name = name;
+        this.sound = "woof";
+    }
+    public Animal(){
+        this.name = "Brutus";
+        this.name = "woof";
+    }
     public void makeSound(){
         System.out.println(sound + " from " + name);
     }
