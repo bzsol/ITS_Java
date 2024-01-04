@@ -1,4 +1,4 @@
-package AccessModifiers;
+package package1;
 
 public class B {
     
