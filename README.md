@@ -1,1 +1,2 @@
-# ITS_Java
+# Preparation Guide for ITS Java Exam
+This guide is designed to provide a structured approach to preparing for the ITS Java examination, scheduled for January 2024 at the University of Debrecen. It covers the core principles of object-oriented programming (OOP) and serves as a straightforward introduction to the topics included in the exam.
